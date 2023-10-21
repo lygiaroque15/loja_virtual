@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'inter', sans-serif;  
+}
+.cabecalho{
+  background-color:#7C71FF;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+}
+
+li {
+  display:inline;
+  background-color:#ffffff;
+  padding: 10px;
+  border-radius: 50px;
+  margin-right: 20px;
+}
+.titulo-secao-colecao{
+  text-align: center;
+  padding: 20px;
+  
+}
+.figuras{
+  display: inline-block;
+ 
+  align-items: 130px;
+ 
+    margin-left: 47px;
+    display: inline-block;
+    padding: 30px;
+  
+}
+a{
+  text-decoration: none;
+}
+.info-usuario{
+color: #ffffff;
+margin-left:30px;
+}
+.nome{
+  text-transform: uppercase;
+font-weight: 700px;
+font-size: 22px;
+width: 252px;
+height: 42px;
+}
+
+#inicio{
+ height: 50px;
+}
+#secao-iniciar{
+ 
+width: 1440px;
+height: 532px;
+top: 100px;
+}
+.nova-colecao{
+
+}
+
+  
+
+
+footer {
+  background: #3F3F3F;
+  width: 1425px;
+  padding-top: 20px;
+  padding-left: 800px;
+  font-size: 20px;
+  font-weight: 400px;
+  color: #ffffff;
+  height: 100px;
+}
